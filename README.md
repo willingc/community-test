@@ -4,7 +4,7 @@ This repo contains community generated content.
 
 ## Community wiki
 
-Please feel free to contrinute to the [Community wiki](https://github.com/willingc/community-test/wiki).
+Please feel free to contribute to the [Community wiki](https://github.com/willingc/community-test/wiki).
 
 ## Note on Support
 
